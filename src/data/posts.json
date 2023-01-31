@@ -1,0 +1,20 @@
+[
+    {
+    "id": 1,
+    "title": "hello world",
+    "content": "try react",
+    "slug": "hello-world"
+},
+{
+    "id": 2,
+    "title": "hello country",
+    "content": "try react-native",
+    "slug": "hello-country"
+},
+{
+    "id": 3,
+    "title": "hello city",
+    "content": "try react-react-app",
+    "slug": "hello-city"
+}
+]
